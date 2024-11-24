@@ -19,7 +19,7 @@ function Asa() {
 
                   <h2><span class="sc">-</span><b class="pc"> 3D Modeling</b></h2>
                   <h2><span class="sc">-</span><b class="pc"> Linux system administration</b></h2>
-                  <h2><span class="sc">-</span><b class="pc"> Virtual Reality</b></h2>
+                  <h2><span class="sc">-</span><b class="pc"> Virtual Reality </b><span class="sc2">[no vr tho ;-;]</span></h2>
               </box>
               <box class="box">
                   <h1><span class="sc">#</span><b class="pc"> skils</b></h1>
